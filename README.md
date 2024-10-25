@@ -1,7 +1,7 @@
 # 2D-robot-Mathemathical-model
 Kinematic model of a 2D robot
 
-This is only the kinematic model and the dynamic visualization is becaus I just added a damper to both wheel velocity
+This is only the kinematic model and the dynamic visualization is because I just added a damper to both wheel velocity
 
 To know the model used, please check the link
 https://www.coursera.org/lecture/intro-self-driving-cars/lesson-1-kinematic-modeling-in-2d-pScZH
